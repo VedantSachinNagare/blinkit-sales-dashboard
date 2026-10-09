@@ -4,7 +4,9 @@ Interactive Power BI dashboard analyzing sales performance, inventory mix and ou
 
 **Stack:** Power BI, DAX, Power Query, Excel
 
-![Dashboard](screenshots/dashboard.png)
+
+
+
 
 ## Dataset
 
